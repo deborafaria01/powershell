@@ -1,2 +1,0 @@
-# powershell
-Lab Scripts Powershell
